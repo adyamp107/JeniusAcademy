@@ -4,3 +4,5 @@
 
 JeniusAcademy is an online learning platform that targets users from elementary school to students preparing for college entrance exams. The website is designed to provide a fun and interactive learning experience with features such as interactive online learning tools, one-on-one tutoring, a variety of exercises and tests, a powerful progress tracker, and engaging discussion forums.
 
+## Github Page Link:
+https://adyamp107.github.io/JeniusAcademy/web/html/home.html
